@@ -1,0 +1,17 @@
+# Operating System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archives & Temporary binaries (Releases must go to GitHub Releases tab, not git tree)
+*.zip
+*.7z
+*.rar
+*.tar.gz
+*.exe
+*.dll
+
+# IDE
+.vscode/
+.idea/
+*.swp
